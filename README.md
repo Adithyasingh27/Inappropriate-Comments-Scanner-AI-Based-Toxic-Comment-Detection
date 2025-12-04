@@ -38,3 +38,4 @@ This project solves these issues by using a **deep-learning NLP pipeline** capab
 
 ---
 
+![output1](https://github.com/user-attachments/assets/86e97e61-47a0-4f83-b7e6-1eb62b20e860)
